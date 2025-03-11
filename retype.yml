@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: example.com
+branding:
+  title: Unreal Docs
+  label: UE 5.5
+links:
+  - text: Unreal Docs
+    link: https://dev.epicgames.com/documentation/en-us/unreal-engine/
+  - text: GitHub Repository
+    link: https://google.com
