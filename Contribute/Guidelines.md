@@ -16,4 +16,4 @@ You must provide the images yourself, having these images in one spot will make 
 
 ## Unreal Version
 
-Please check your version of Unreal Engine before commiting to these docs. Make sure you're on the version specified in the tag next to the 'Unreal Docs' title in the top left. If you aren't on the matching version of the editor then your request will not be accepted, that's why when making a pull request you must specify your engine version, if your engine is from the launcher or from source, and if you have any external development kits such as the Game Development Kit (GDK)
+Please check your version of Unreal Engine before commiting to these docs. Make sure you're on the version specified in the tag next to the 'Unreal Docs' title in the top left. If you aren't on the matching version of the editor then your request will not be accepted, that's why when making a pull request you must specify your engine version, if your engine is from the launcher or from source, and if you have any external development kits such as the Game Development Kit (GDK).
