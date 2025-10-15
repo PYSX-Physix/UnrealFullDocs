@@ -13,5 +13,5 @@ Refer to the sections below to see what kind of UE5 skills you can learn.
 ## Installing Unreal Engine
 Learn how to download and install Unreal Engine, and get acquainted with the Unreal Engine 5 system requirements for Windows, macOS, and Linux.
 
-[!ref Installing Unreal Engine](/understanding-the-basics/installing-unreal-engine/)
-[!ref Hardware and Software Specifications](/understanding-the-basics/hardware-and-software-specifications/)
+[!ref Installing Unreal Engine](/5.6/understanding-the-basics/installing-unreal-engine/)
+[!ref Hardware and Software Specifications](/5.6/understanding-the-basics/hardware-and-software-specifications/)
