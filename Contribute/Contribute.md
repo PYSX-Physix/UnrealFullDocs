@@ -6,10 +6,10 @@ icon: mark-github
 
 # Contribute
 
-In order to contribute to this project you first must clone the [GitHub Repository]() by this like that leads you to the repo or the code referenced below.
+In order to contribute to this project you first must clone the [GitHub Repository](https://github.com/PYSX-Physix/UnrealFullDocs) by this like that leads you to the repo or the code referenced below.
 
 ```git
-git clone https://github.com/your-repo.git
+git clone https://github.com/PYSX-Physix/UnrealFullDocs.git
 ```
 
 ## Commiting Changes
@@ -33,4 +33,4 @@ The following cannot be included:
 - 3rd Party Plugins made by other developers from Fab, GitHub, GitLab or anywhere
 - Copyrighted Content from Epic Games or anyone else
 - You're not allowed to add any files from anywhere on the internet
-    - No links to any external to anywhere
+    - No links to any external websites for downloading files or any other reasons.
